@@ -1,0 +1,12 @@
+Package: com.fullstackio.flappybird
+Priority: Extra
+Name: flappy bird
+Depends: firmware (>= 9.0)
+Pre-Depends: cy+cpu.arm64
+Version: 1.0-1
+Architecture: appletvos-arm64
+Description: flappy bird 
+Maintainer: Nate Murray
+Author: Nate Murray
+Section: Game
+
